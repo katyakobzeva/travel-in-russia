@@ -1,0 +1,35 @@
+.place__website_link {
+  width: 456px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+
+.place__website_link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+  .place__website_link {
+    width: 352px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__website_link {
+    width: 288px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+  }
+}
