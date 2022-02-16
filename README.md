@@ -17,5 +17,5 @@
 2. Реализовать переключение языков с помощью JavaScript.
 
 # Ссылка на сайт:
-
+https://katyakobzeva.github.io/travel-in-russia/
 
